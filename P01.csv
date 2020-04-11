@@ -1,0 +1,43 @@
+Car,Cylinders,"Weight
+(tons)",Drive Ratio,"Horse-
+power",Displacement,"Country
+Mfg.","Fuel Efficiency
+(Miles-Per-Gallon)"
+Buick Estate Wagon ,8,4.36,2.73,155,350,US,16.9
+Ford Country Squire,8,4.054,2.26,142,351,US,15.5
+Chevy Malibu Wagon,8,3.605,2.56,125,267,US,18.5
+Chrysler Lebaron Wagon,8,3.94,2.45,150,360,US,30
+Chevette,4,2.155,3.7,68,98,US,27.5
+Toyota Corona,4,2.56,3.05,95,134,Japan,27.2
+Datsun 510,4,2.3,3.54,97,119,Japan,30.9
+Dodge Omni,4,2.23,3.37,75,105,US,20.3
+Audi 5000,5,2.83,3.9,103,131,Europe,20.3
+Volvo 240 GL,6,3.14,3.5,125,163,Europe,17
+Saab 99 GLE,4,2.795,3.77,115,121,Europe,21.6
+Peugeot 694 SL,6,3.41,3.58,133,163,Europe,16.2
+Buick Century Special,6,3.38,2.73,105,231,US,20.6
+Mercury Zephyr,6,3.07,3.08,85,200,US,20.8
+Dodge Aspen,6,3.62,2.71,110,225,US,18.6
+AMC Concord D/L,6,3.41,2.73,120,258,US,18.1
+Chevy Caprice Classic,8,3.84,2.41,130,305,US,17
+Ford LTD,8,3.725,2.26,129,302,US,17.6
+Mercury Grand Marquise,8,3.955,2.26,138,351,US,16.5
+Dodge St Regis,8,3.83,2.45,135,318,US,18.2
+Ford Mustang 4,4,2.585,3.08,88,140,US,26.5
+Ford Mustang Ghia,6,2.91,3.08,109,171,US,21.9
+Mazda GLC,4,1.975,3.73,65,86,Japan,34.1
+Dodge Colt,4,1.915,2.97,80,98,Japan,35.1
+AMC Spirit,4,2.67,3.08,80,121,US,27.4
+VW Scirocco,4,1.99,3.78,71,89,Europe,31.5
+Honda Accord LX,4,2.135,3.05,68,98,Japan,29.5
+Buick Skylark,4,2.67,2.53,90,151,US,28.4
+Chevy Citation,6,2.595,2.69,115,173,US,28.8
+Olds Omega,6,2.7,2.84,115,173,US,26.8
+Pontiac Phoenix,4,2.556,2.69,90,151,US,33.5
+Plymouth Horizon,4,2.2,3.37,70,105,US,34.2
+Datsun 210,4,2.02,3.7,65,85,Japan,31.8
+Fiat Strada,4,2.13,3.1,69,91,Europe,37.3
+VW Dasher,4,2.19,3.7,78,97,Europe,30.5
+Datsun 810,6,2.815,3.7,97,146,Japan,22
+BMW 320i,4,2.6,3.64,110,121,Europe,21.5
+VW Rabbit,4,1.925,3.78,71,89,Europe,31.9
