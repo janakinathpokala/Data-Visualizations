@@ -6,4 +6,4 @@ Course Assignment solutions for data visualization and performing Explantory Dat
 2. Pandas
 3. matplotlib
 4. seaborn
-5.scipy.stats
+5. scipy.stats
